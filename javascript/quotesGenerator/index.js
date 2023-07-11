@@ -13,7 +13,7 @@ let quotesArray=[
    '“A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’”',
    '“The best thing about a boolean is even if you are wrong, you are only off by a bit.”',
    '“Real programmers can write assembly code in any language.” by Larry Wall.',
-   'Algorithm dot V now codes with Algorithm dot N -nanababy'
+   'Coding is all about troubleshooting, Be resilient until you figure it out. -Algorithm .V'
 ]
 function randomNumber() { 
          const min= 0 
