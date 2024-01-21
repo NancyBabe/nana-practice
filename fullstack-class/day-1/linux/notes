@@ -1,0 +1,5 @@
+cd - this is to change directory.
+ls - this is to list files.
+touch - this is to create a new file.
+mkdir - this is to make a new directory
+pwd - this gives the full location or actual folder that you are currently working on.

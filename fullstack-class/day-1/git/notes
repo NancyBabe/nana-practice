@@ -1,0 +1,15 @@
+repository - means your project folder. 
+git clone - this is used to copy a repository to your local system.
+git commit - this is used to commit the files that you staged
+staging - this means temporaily saving your files.
+git add -this is part where you stage the files.
+git push - this is when the commited updates/files/folders are pushed or synchronized with the git hub repository.
+git pull - this is when you get updates from your github to local machine in other to synchronize.
+git status - this is to know the status of project and to know the changes not commited yet.
+
+steps to add/commit files to project
+1 - clone the repository to your local machine if you have not done so already.
+2 - make the neccessary updates to projects.
+3 - on the command line, run git add -A (capital A means all the updates will be added to this commit)
+4 - on the command line, run git commit -m 'commit message goes here'.
+5 -on the command line, run git push (this saves all your updates to the repository)
